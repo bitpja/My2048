@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1566653850 source:/home/pja/my_workspace/My2048/main.cpp
+	<iostream>
+	<include/My2048.h>
+
+1566653998 source:/home/pja/my_workspace/My2048/src/My2048.cpp
+	"include/My2048.h"
+
+1566653986 /home/pja/my_workspace/My2048//include/My2048.h
+	<vector>
+	<iostream>
+	<random>
+	<stdlib.h>
+	<time.h>
+
